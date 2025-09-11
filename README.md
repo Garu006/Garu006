@@ -12,47 +12,18 @@ Actualmente estoy estudiando **Ingeníeria en Sistemas** y complementando mi for
 
 ## 🛠️ Tecnologías
 
-**C**  
-<div style="background-color: #ddd; border-radius: 5px; width: 300px;">
-  <div style="width: 90%; background-color: #00599C; padding: 3px; border-radius: 5px; text-align: center; color: white;">
-    90%
-  </div>
-</div>
+## 🚀 Tecnologías
 
-**C++**  
-<div style="background-color: #ddd; border-radius: 5px; width: 300px;">
-  <div style="width: 85%; background-color: blue; padding: 3px; border-radius: 5px; text-align: center; color: white;">
-    85%
-  </div>
-</div>
+**Lenguajes que manejo:**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**C#**  
-<div style="background-color: #ddd; border-radius: 5px; width: 300px;">
-  <div style="width: 75%; background-color: #239120; padding: 3px; border-radius: 5px; text-align: center; color: white;">
-    75%
-  </div>
-</div>
+**Actualmente aprendiendo:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) `En proceso`  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) `En proceso`
 
-**Python**  
-<div style="background-color: #ddd; border-radius: 5px; width: 300px;">
-  <div style="width: 95%; background-color: #3776AB; padding: 3px; border-radius: 5px; text-align: center; color: white;">
-    95%
-  </div>
-</div>
-
-**SQL (aprendiendo)**  
-<div style="background-color: #ddd; border-radius: 5px; width: 300px;">
-  <div style="width: 10%; background-color: #025E8C; padding: 3px; border-radius: 5px; text-align: center; color: white;">
-    10%
-  </div>
-</div>
-
-**Java (aprendiendo)**  
-<div style="background-color: #ddd; border-radius: 5px; width: 300px;">
-  <div style="width: 10%; background-color: #ED8B00; padding: 3px; border-radius: 5px; text-align: center; color: white;">
-    10%
-  </div>
-</div>
 
 
 ## 🚀 Proyectos
