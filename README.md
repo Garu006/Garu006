@@ -13,26 +13,47 @@ Actualmente estoy estudiando **Ingeníeria en Sistemas** y complementando mi for
 ## 🛠️ Tecnologías
 
 **C**  
-![C](https://progress-bar.dev/90/?title=Progreso&width=300&color=00599C)
+<div style="background-color: #ddd; border-radius: 5px; width: 300px;">
+  <div style="width: 90%; background-color: #00599C; padding: 3px; border-radius: 5px; text-align: center; color: white;">
+    90%
+  </div>
+</div>
 
 **C++**  
-![C++](https://progress-bar.dev/85/?title=Progreso&width=300&color=blue)
+<div style="background-color: #ddd; border-radius: 5px; width: 300px;">
+  <div style="width: 85%; background-color: blue; padding: 3px; border-radius: 5px; text-align: center; color: white;">
+    85%
+  </div>
+</div>
 
 **C#**  
-![C#](https://progress-bar.dev/75/?title=Progreso&width=300&color=239120)
+<div style="background-color: #ddd; border-radius: 5px; width: 300px;">
+  <div style="width: 75%; background-color: #239120; padding: 3px; border-radius: 5px; text-align: center; color: white;">
+    75%
+  </div>
+</div>
 
 **Python**  
-![Python](https://progress-bar.dev/95/?title=Progreso&width=300&color=3776AB)
+<div style="background-color: #ddd; border-radius: 5px; width: 300px;">
+  <div style="width: 95%; background-color: #3776AB; padding: 3px; border-radius: 5px; text-align: center; color: white;">
+    95%
+  </div>
+</div>
 
 **SQL (aprendiendo)**  
-![SQL](https://progress-bar.dev/10/?title=Progreso&width=300&color=025E8C)
+<div style="background-color: #ddd; border-radius: 5px; width: 300px;">
+  <div style="width: 10%; background-color: #025E8C; padding: 3px; border-radius: 5px; text-align: center; color: white;">
+    10%
+  </div>
+</div>
 
 **Java (aprendiendo)**  
-![Java](https://progress-bar.dev/10/?title=Progreso&width=300&color=ED8B00)
+<div style="background-color: #ddd; border-radius: 5px; width: 300px;">
+  <div style="width: 10%; background-color: #ED8B00; padding: 3px; border-radius: 5px; text-align: center; color: white;">
+    10%
+  </div>
+</div>
 
-## 📊 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Garu006&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garu006&layout=compact&theme=radical)
 
 ## 🚀 Proyectos
 - 🥡 **Harta-Zone** → Plataforma contra el desperdicio de alimentos.  
