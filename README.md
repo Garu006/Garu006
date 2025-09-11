@@ -22,9 +22,9 @@ Actualmente estoy estudiando **Ingeníeria en Sistemas** y complementando mi for
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) `En proceso`
 
 ## 🚀 Proyectos
-- 🥡 **Harta-Zone** → Plataforma contra el desperdicio de alimentos.  
-- 🍲 **NutriPlan** → Banco de ingredientes + generador de recetas personalizadas.  
-- 📐 [Calculadora Álgebra Lineal](https://github.com/johaneris/Calculadora_Algebra_Lineal) → Versión definitiva en **Django** con operaciones de Gauss-Jordan.  
+- 📚 [4to-Semestre](https://github.com/Garu006/4to-Semestre) → Repositorio con prácticas, apuntes y proyectos de todas las materias del cuarto semestre en Ingeniería en Sistemas.  
+- 🧾 [README de Perfil](https://github.com/Garu006/Garu006) → Mi README personalizado en GitHub, donde muestro mi perfil profesional, proyectos y tecnologías que manejo.  
+- 📐 [Calculadora Álgebra Lineal](https://github.com/johaneris/Calculadora_Algebra_Lineal) → Versión definitiva en **Django** con operaciones de Gauss-Jordan.
 
 ## 🌱 Ahora aprendiendo  
 - POO en Java  
