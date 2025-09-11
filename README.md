@@ -30,8 +30,9 @@ Actualmente estoy estudiando **Ingeníeria en Sistemas** y complementando mi for
 
 ## 🌱 Ahora aprendiendo  
 - POO en Java  
-- SQL  
-- Buenas prácticas con Git  
+- SQL
+- Python en Algebra Líneal
+- Buenas prácticas con Git
 
 ## 🌐 Encuéntrame en
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-antonio-rojas-uriarte-1a9375365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
