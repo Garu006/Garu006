@@ -40,7 +40,7 @@ Actualmente estoy estudiando **Ingeníeria en Sistemas** y complementando mi for
 ## ❤️ Mi inspiración
 Todo se lo debo a ellas dos ❤️    
 
-<img src="https://github.com/user-attachments/assets/15c610c2-b6a9-42c1-b0e8-4215fad5c9b5" alt="Foto 1" width="350"/> <img src="https://github.com/user-attachments/assets/fe2838e7-c5d1-495f-8dd2-709ec75a5042" alt="Foto 2" width="350"/>
-
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/15c610c2-b6a9-42c1-b0e8-4215fad5c9b5" alt="Foto 1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/fe2838e7-c5d1-495f-8dd2-709ec75a5042" alt="Foto 2" width="300"/>
+</p>
