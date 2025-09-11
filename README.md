@@ -1,4 +1,4 @@
-++# 👋 Hola, soy Gabriel Antonio Rojas Uriarte (Garu006)
+# 👋 Hola, soy Gabriel Antonio Rojas Uriarte (Garu006)
 
 💻 Estudiante de Ingeniería en Sistemas y cursando una ***doble titulació en Negocios Internacionales*** en la UAM  
 🚀 Apasionado por construir proyectos que mezclan **tecnología, emprendimiento y comunidad**.  
