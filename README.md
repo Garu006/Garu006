@@ -11,13 +11,24 @@ Actualmente estoy estudiando **Ingeníeria en Sistemas** y complementando mi for
 🎯 Mis metas: cuando esté en el penúltimo o último año de mi carrera, me visualizo iniciando mi camino como **freelancer**, trabajando en proyectos que me permitan adquirir experiencia real, construir un portafolio sólido y fortalecer mis habilidades técnicas y de gestión. Mi objetivo es mantenerme como freelancer durante un par de años, y al mismo tiempo explorar oportunidades de **contratos fijos con empresas** que me brinden crecimiento profesional y estabilidad financiera, consolidando así mi trayectoria en el ámbito tecnológico.
 
 ## 🛠️ Tecnologías
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+**C**  
+![C](https://progress-bar.dev/90/?title=Progreso&width=300&color=00599C)
+
+**C++**  
+![C++](https://progress-bar.dev/85/?title=Progreso&width=300&color=blue)
+
+**C#**  
+![C#](https://progress-bar.dev/75/?title=Progreso&width=300&color=239120)
+
+**Python**  
+![Python](https://progress-bar.dev/95/?title=Progreso&width=300&color=3776AB)
+
+**SQL (aprendiendo)**  
+![SQL](https://progress-bar.dev/10/?title=Progreso&width=300&color=025E8C)
+
+**Java (aprendiendo)**  
+![Java](https://progress-bar.dev/10/?title=Progreso&width=300&color=ED8B00)
+
 
 ## 📊 Estadísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Garu006&show_icons=true&theme=radical)
