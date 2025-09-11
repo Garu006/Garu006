@@ -7,6 +7,7 @@
 ## ✨ Sobre mí
 Soy un apasionado del deporte y el ejercicio, siempre en busca de nuevos retos que me permitan crecer y mantenerme activo en todo lo que hago. Me gusta experimentar, aprender cosas nuevas y superar mis propios límites, tanto en lo personal como en lo profesional.  
 Actualmente estoy estudiando **Ingeníeria en Sistemas** y complementando mi formación con una doble titulación en **Negocios Internacionales** lo que me permite desarrollar una visión integral entre tecnología y gestión empresarial.
+
 🎯 Mis metas: cuando esté en el penúltimo o último año de mi carrera, me visualizo iniciando mi camino como **freelancer**, trabajando en proyectos que me permitan adquirir experiencia real, construir un portafolio sólido y fortalecer mis habilidades técnicas y de gestión. Mi objetivo es mantenerme como freelancer durante un par de años, y al mismo tiempo explorar oportunidades de **contratos fijos con empresas** que me brinden crecimiento profesional y estabilidad financiera, consolidando así mi trayectoria en el ámbito tecnológico.
 
 ## 🛠️ Tecnologías
@@ -42,5 +43,6 @@ Todo se lo debo a ellas dos ❤️
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/15c610c2-b6a9-42c1-b0e8-4215fad5c9b5" alt="Foto 1" width="300"/>
-  <img src="https://github.com/user-attachments/assets/fe2838e7-c5d1-495f-8dd2-709ec75a5042" alt="Foto 2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/47dbdbc3-596f-4298-86ae-fe4ce660d1d2" alt="Foto 2" width="300"/>
 </p>
+
