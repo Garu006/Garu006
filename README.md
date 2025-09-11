@@ -1,4 +1,4 @@
-# 👋 Hola, soy Gabriel Antonio Rojas Uriarte (Garu006)
+++# 👋 Hola, soy Gabriel Antonio Rojas Uriarte (Garu006)
 
 💻 Estudiante de Ingeniería en Sistemas y cursando una ***doble titulació en Negocios Internacionales*** en la UAM  
 🚀 Apasionado por construir proyectos que mezclan **tecnología, emprendimiento y comunidad**.  
@@ -38,11 +38,9 @@ Actualmente estoy estudiando **Ingeníeria en Sistemas** y complementando mi for
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dh.garu_?igsh=MXQzMjgxczExb2IwZg==)
 
 ## ❤️ Mi inspiración
-Todo se lo debo a ellas dos ❤️  
+Todo se lo debo a ellas dos ❤️    
 
-<img src="![WhatsApp Image 2025-09-11 at 9 17 15 AM](https://github.com/user-attachments/assets/15c610c2-b6a9-42c1-b0e8-4215fad5c9b5)
-" alt="Foto 1" width="400"/>  
-<img src="![WhatsApp Image 2025-09-11 at 9 17 16 AM](https://github.com/user-attachments/assets/fe2883e7-c561-495f-8dd2-7b9ec75a5042)
-" alt="Foto 2" width="400"/>
+<img src="https://github.com/user-attachments/assets/15c610c2-b6a9-42c1-b0e8-4215fad5c9b5" alt="Foto 1" width="350"/> <img src="https://github.com/user-attachments/assets/fe2838e7-c5d1-495f-8dd2-709ec75a5042" alt="Foto 2" width="350"/>
+
 
 
