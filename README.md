@@ -30,8 +30,6 @@ Actualmente estoy estudiando **Ingeníeria en Sistemas** y complementando mi for
 **Java (aprendiendo)**  
 ![Java](https://progress-bar.dev/10/?title=Progreso&width=300&color=ED8B00)
 
-
-
 ## 📊 Estadísticas
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Garu006&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Garu006&layout=compact&theme=radical)
