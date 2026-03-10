@@ -17,20 +17,24 @@ Actualmente estoy estudiando **Ingeníeria en Sistemas** y complementando mi for
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Actualmente aprendiendo:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) `En proceso`  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) `En proceso`
-
 ## 🚀 Proyectos
 - 📚 [4to-Semestre](https://github.com/Garu006/4to-Semestre) → Repositorio con prácticas, apuntes y proyectos de todas las materias del cuarto semestre en Ingeniería en Sistemas.  
 - 🧾 [README de Perfil](https://github.com/Garu006/Garu006) → Mi README personalizado en GitHub, donde muestro mi perfil profesional, proyectos y tecnologías que manejo.  
 - 📐 [Calculadora Álgebra Lineal](https://github.com/johaneris/Calculadora_Algebra_Lineal) → Versión definitiva en **Django** con operaciones de Gauss-Jordan.
 
+## Aprendizajes concluidos
+- POO en Java
+- SQL
+- Python en Algebra Lineal
+- Go
+- C, C++, C#
+
 ## 🌱 Ahora aprendiendo  
-- POO en Java  
+- Kotlin  
 - SQL
 - Python en Algebra Líneal
-- Buenas prácticas con Git
+- Control de versiones con git y github
+- Java en Android Studio
 
 ## 🌐 Encuéntrame en
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-antonio-rojas-uriarte-1a9375365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
