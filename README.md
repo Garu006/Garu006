@@ -1,14 +1,14 @@
-# 👋 Hola, soy Gabriel Antonio Rojas Uriarte (Garu006)
+# Hola, soy Gabriel Antonio Rojas Uriarte (Garu006)
 
-💻 Estudiante de Ingeniería en Sistemas y cursando una ***doble titulació en Negocios Internacionales*** en la UAM  
-🚀 Apasionado por construir proyectos que mezclan **tecnología, emprendimiento y comunidad**.  
-🦫 Fun Fact: Sobrevivo a punta de Mochaccinos 🍫🐒
+Estudiante de Ingeniería en Sistemas y cursando una ***doble titulació en Negocios Internacionales*** en la UAM  
+Apasionado por construir proyectos que mezclan **tecnología, emprendimiento y comunidad**.  
+Fun Fact: Sobrevivo a punta de Mochaccinos
 
-## ✨ Sobre mí
+## Sobre mí
 Soy un apasionado del deporte y el ejercicio, siempre en busca de nuevos retos que me permitan crecer y mantenerme activo en todo lo que hago. Me gusta experimentar, aprender cosas nuevas y superar mis propios límites, tanto en lo personal como en lo profesional.  
 Actualmente estoy estudiando **Ingeníeria en Sistemas** y complementando mi formación con una doble titulación en **Negocios Internacionales** lo que me permite desarrollar una visión integral entre tecnología y gestión empresarial.
 
-🎯 Mis metas: cuando esté en el penúltimo o último año de mi carrera, me visualizo iniciando mi camino como **freelancer**, trabajando en proyectos que me permitan adquirir experiencia real, construir un portafolio sólido y fortalecer mis habilidades técnicas y de gestión. Mi objetivo es mantenerme como freelancer durante un par de años, y al mismo tiempo explorar oportunidades de **contratos fijos con empresas** que me brinden crecimiento profesional y estabilidad financiera, consolidando así mi trayectoria en el ámbito tecnológico.
+Mis metas: cuando esté en el penúltimo o último año de mi carrera, me visualizo iniciando mi camino como **freelancer**, trabajando en proyectos que me permitan adquirir experiencia real, construir un portafolio sólido y fortalecer mis habilidades técnicas y de gestión. Mi objetivo es mantenerme como freelancer durante un par de años, y al mismo tiempo explorar oportunidades de **contratos fijos con empresas** que me brinden crecimiento profesional y estabilidad financiera, consolidando así mi trayectoria en el ámbito tecnológico.
 
 Actualmente estoy desesperado por una pasantía.
 
@@ -31,18 +31,18 @@ Actualmente estoy desesperado por una pasantía.
 - C, C++, C#
 - Java en Intellij Idea
 
-## 🌱 Ahora aprendiendo  
+## Ahora aprendiendo  
 - Kotlin en Android Studio(en Programación Orientada a Objetos 2)
 - SQL (en Gestión y Administración de base de datos)
 - Control de versiones con git y github
 - Java enfocado en desarrollo android 
 
-## 🌐 Encuéntrame en
+## Encuéntrame en
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-antonio-rojas-uriarte-1a9375365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garojas@uamv.edu.ni)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dh.garu_?igsh=MXQzMjgxczExb2IwZg==)
 
-## ❤️ Mi inspiración
+## Mi inspiración
 Todo se lo debo a ellas dos ❤️    
 
 <p align="center">
