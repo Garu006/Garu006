@@ -10,6 +10,8 @@ Actualmente estoy estudiando **Ingeníeria en Sistemas** y complementando mi for
 
 🎯 Mis metas: cuando esté en el penúltimo o último año de mi carrera, me visualizo iniciando mi camino como **freelancer**, trabajando en proyectos que me permitan adquirir experiencia real, construir un portafolio sólido y fortalecer mis habilidades técnicas y de gestión. Mi objetivo es mantenerme como freelancer durante un par de años, y al mismo tiempo explorar oportunidades de **contratos fijos con empresas** que me brinden crecimiento profesional y estabilidad financiera, consolidando así mi trayectoria en el ámbito tecnológico.
 
+Actualmente estoy desesperado por una pasantía.
+
 ## 🛠️ Tecnologías
 **Lenguajes que manejo:**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -23,18 +25,17 @@ Actualmente estoy estudiando **Ingeníeria en Sistemas** y complementando mi for
 - 📐 [Calculadora Álgebra Lineal](https://github.com/johaneris/Calculadora_Algebra_Lineal) → Versión definitiva en **Django** con operaciones de Gauss-Jordan.
 
 ## Aprendizajes concluidos
-- POO en Java
-- SQL
+- SQL (en fundamentos de base de datos)
 - Python en Algebra Lineal
-- Go
+- Go en Advent of Code
 - C, C++, C#
+- Java en Intellij Idea
 
 ## 🌱 Ahora aprendiendo  
-- Kotlin  
-- SQL
-- Python en Algebra Líneal
+- Kotlin en Android Studio(en Programación Orientada a Objetos 2)
+- SQL (en Gestión y Administración de base de datos)
 - Control de versiones con git y github
-- Java en Android Studio
+- Java enfocado en desarrollo android 
 
 ## 🌐 Encuéntrame en
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-antonio-rojas-uriarte-1a9375365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
