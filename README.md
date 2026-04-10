@@ -10,8 +10,6 @@ Actualmente estoy estudiando **Ingeníeria en Sistemas** y complementando mi for
 
 Mis metas: cuando esté en el penúltimo o último año de mi carrera, me visualizo iniciando mi camino como **freelancer**, trabajando en proyectos que me permitan adquirir experiencia real, construir un portafolio sólido y fortalecer mis habilidades técnicas y de gestión. Mi objetivo es mantenerme como freelancer durante un par de años, y al mismo tiempo explorar oportunidades de **contratos fijos con empresas** que me brinden crecimiento profesional y estabilidad financiera, consolidando así mi trayectoria en el ámbito tecnológico.
 
-Actualmente estoy desesperado por una pasantía.
-
 ## 🛠️ Tecnologías
 **Lenguajes que manejo:**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
